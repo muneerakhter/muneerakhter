@@ -1,48 +1,15 @@
+# Muneer Akhter
 
-Hi, I'm Muneer 👋
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
+![AI/ML](https://img.shields.io/badge/AI%2FML-000?style=flat)
 
-Software Engineer | Python | AI/ML | High-Performance Systems
+> engineer • python • ai/ml
 
-I build high-performance web applications and AI/ML solutions with a strong focus on speed, scalability, and clean architecture. With 5+ years of shipping production code, I’m driven by optimization, deep problem-solving, and experimenting with cutting-edge technologies.
+I build fast backend systems and practical AI/ML solutions.  
+Design simple, functional UI flows in Figma.  
+5+ years shipping production code.
 
-🚀 What I Do
+**focus:** performance • clarity • reliability
 
-Build scalable backend systems in Python
-
-Design and deploy AI/ML pipelines
-
-Optimize performance at the code, data, and infrastructure level
-
-Architect modern full-stack applications
-
-Automate workflows and integrate cloud-native tooling
-
-
-🧠 Current Focus
-
-High-performance Python systems
-
-FastAPI + async architectures
-
-ML optimization and inference efficiency
-
-Distributed computing and vector databases
-
-Cloud deployment (AWS / GCP)
-
-
-🛠️ Tech Stack
-
-Languages: Python, JavaScript/TypeScript
-Web: FastAPI, Django, React
-AI/ML: PyTorch, TensorFlow, scikit-learn
-Data/Infra: PostgreSQL, Redis, Docker, Kafka
-Tools: Git, Linux, VS Code
-
-📈 What Drives Me
-
-I like building things that are fast, reliable, and actually solve real problems. Performance tuning, profiling, benchmarking — that’s where I feel at home.
-
-📬 Let’s Connect
-
-LinkedIn: add your link here
+no noise. just execution.
