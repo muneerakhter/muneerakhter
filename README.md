@@ -7,8 +7,7 @@
 > engineer • python • ai/ml
 
 I build fast backend systems and practical AI/ML solutions.  
-Design simple, functional UI flows in Figma.  
-5+ years shipping production code.
+using Python. 
 
 **focus:** performance • clarity • reliability
 
