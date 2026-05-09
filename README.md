@@ -68,12 +68,12 @@ muneer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneer-Akhter&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7EB3FF&icon_color=7EB3FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneer-Akhter&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7EB3FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muneerakhter&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7EB3FF&icon_color=7EB3FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneerakhter&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7EB3FF&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneer-Akhter&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7EB3FF&ring=7EB3FF&fire=FF6B6B&currStreakLabel=7EB3FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muneerakhter&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7EB3FF&ring=7EB3FF&fire=FF6B6B&currStreakLabel=7EB3FF" />
 
 </div>
 
@@ -94,7 +94,7 @@ I am actively looking for **internship opportunities** in Software Engineering, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneer-akhter)
+[![LinkedIn]([https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneer-akhter](https://www.linkedin.com/in/muneer-akhter-155a27315/?skipRedirect=true))
 
 </div>
 
