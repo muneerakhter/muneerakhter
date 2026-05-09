@@ -85,8 +85,8 @@ muneer = {
 - 🤖 Exploring **deep learning** architectures and real datasets
 - 🎨 Sharpening my **UI/UX** design workflow
 - 📂 Contributing to open source projects
+- 👨‍💻 Engaged in developing my own projects
 
----
 
 ## 📬 Let's Connect
 
