@@ -94,7 +94,7 @@ I am actively looking for **internship opportunities** in Software Engineering, 
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneer-akhter](https://www.linkedin.com/in/muneer-akhter-155a27315/?skipRedirect=true))
+[![LinkedIn]([https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muneer-akhter-155a27315](www.linkedin.com/in/muneer-akhter-155a27315))
 
 </div>
 
