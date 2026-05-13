@@ -21,8 +21,8 @@
 ```python
 muneer = {
     "role"      : "Software Engineering Student @ Karachi, Pakistan",
-    "focus"     : ["Full Stack Dev", "UI/UX Design", "Machine Learning"],
-    "currently" : "Building real-world projects",
+    "focus"     : ["Full Stack Dev", "UI/UX Design", "AI / Machine Learning"],
+    "currently" : "Building real world projects",
     "available" : True,
     "fun_fact"  : "I care as much about how it looks and how it works"
 }
@@ -82,8 +82,7 @@ muneer = {
 ## 🚀 What I'm Working On
 
 - 🌐 Polishing **Existing Websites** 
-- 🤖 Exploring **deep learning** architectures and real datasets
-- 🎨 Sharpening my **UI/UX** design workflow
+- 🎨 Sharpening **UI/UX** design workflow
 - 📂 Contributing to open source projects
 - 👨‍💻 Engaged in developing my own projects
 
