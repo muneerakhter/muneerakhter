@@ -20,7 +20,7 @@
 
 ```python
 muneer = {
-    "role"      : "Web Engineering Student @ Karachi, Pakistan",
+    "role"      : "Software Engineering Student @ Karachi, Pakistan",
     "focus"     : ["Full Stack Dev", "UI/UX Design", "Machine Learning"],
     "currently" : "Building real-world projects",
     "available" : True,
