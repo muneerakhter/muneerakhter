@@ -89,7 +89,7 @@ muneer = {
 
 ## 📬 Let's Connect
 
-I am actively looking for **internship opportunities** in Software Engineering, Frontend Development, and UI/UX Design. If you think I'd be a good fit for your team, let's talk.
+I am actively looking for **opportunities** in Software Engineering, Frontend Development, and UI/UX Design. If you think I'd be a good fit for your team, let's talk.
 
 <div align="center">
 
